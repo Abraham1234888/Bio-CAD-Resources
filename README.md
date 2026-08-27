@@ -80,10 +80,7 @@ Notes on external links and forms:
 ## Contact
 - Use `contact.html` on the site for enquiries or training signups.
 
-## Try asking
-- Should I replace the Formspree placeholder in the forms with your real Formspree ID or connect a different email provider?
-- Do you want the three Drive downloads moved into a `downloads/` folder in the repo, or should they remain on Google Drive?
-- Would you like a GitHub Pages deployment workflow (automatic build + publish) added to the repo?
 
----
+
+
 © 2026 BioCAD Resources
